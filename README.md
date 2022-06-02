@@ -1,3 +1,0 @@
-# littleWhite.github.io
-
-qkskja
