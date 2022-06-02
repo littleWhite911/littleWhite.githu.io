@@ -103,5 +103,5 @@ theme: next
 
 deploy:
   type: git
-  repo: https://github.com/littleWhite911/littleWhite.github.io.git
+  repo: https://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@github.com/littleWhite911/littleWhite.github.io.git
   branch: master
